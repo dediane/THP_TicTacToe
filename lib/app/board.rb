@@ -28,6 +28,8 @@ class Board
       array[choice].value = player.value
       puts "\nQuelle stratégie!!!\u{1F92F}"
     end
+    puts ""
+    puts " "*6 + "\u{2716}\u{1F525}"*10 
   end
 
   def game_nul?
