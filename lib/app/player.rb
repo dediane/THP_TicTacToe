@@ -1,3 +1,5 @@
+#inizialize object Player with name, value, points
+
 class Player
   attr_accessor :name, :value, :points
 

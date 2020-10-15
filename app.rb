@@ -15,4 +15,4 @@ def perform
   current_game.results
 end
 
-perform 
+perform
