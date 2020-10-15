@@ -12,12 +12,14 @@
 
 <p> This is a super cool version of the Tic Tac Toe using gem colorize to ehance a bit your Terminal with super fun Emojis and colors!!!</p>
 
+<p align="center">
 :white_circle:
 :black_circle:
 :red_circle:
 :yellow_circle:
 :green_circle:
 :large_blue_circle:
+</p>
 
 <p> 2 players, 1 grid to fill</p>
 
