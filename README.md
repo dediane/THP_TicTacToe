@@ -4,3 +4,6 @@
 
 **This game can be play buy 2 human users. (Sorry i don't know how to build IA ***yet***)**
 
+<img src="https://images-eu.ssl-images-amazon.com/images/I/21sQ-B9eNlL.png"
+     alt="Tic Tac Toe"
+     style="float: left; margin-right: 10px;" />
