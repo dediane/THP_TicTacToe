@@ -21,15 +21,15 @@ class Game
   def play
    while @board.victory? == false
       @board.play_turn(@player_X)
-      # if @board.victory?
-      #   puts "Félicitation #{player_X.name}, tu as gagné la partie!!!"
-      #   break
-      # end
+      if @board.victory?
+        puts "Félicitation #{player_X.name}, tu as gagné la partie!!!"
+        break
+      end
       @board.play_turn(@player_O)
-      # if @board.victory?
-      #   puts "Félicitation #{player_O.name}, tu as gagné la partie!!!"
-      #   break
-      # end
+      if @board.victory?
+        puts "Félicitation #{player_O.name}, tu as gagné la partie!!!"
+        break
+      end
     end
   end
 end

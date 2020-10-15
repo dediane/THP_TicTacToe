@@ -1,8 +1,7 @@
 class BoardCase
   attr_accessor :num, :value
 
-  def initialize(num)
-    @num = num
+  def initialize
     @value = " "
   end
 
