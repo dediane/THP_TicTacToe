@@ -12,7 +12,7 @@ ru
 
 <p> This is a super cool version of the Tic Tac Toe using gem colorize to ehance a bit your Terminal with super fun Emojis and colors!!!</p>
 
-<p>\u{1F534} \u{1F7E0} \u{1F7E1} \u{1F7E2} \u{1F535} \u{1F7E3}</p>
+:white_circle:
 
 <p> 2 players, 1 grid to fill</p>
 
