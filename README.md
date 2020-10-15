@@ -23,7 +23,7 @@
 
 <p> 2 players, 1 grid to fill</p>
 
-** Who will be the winner of this EPIC game?? **
+**Who will be the winner of this EPIC game??**
 
 <p>Be prepare to meet my SUPER MORPION</p>
 
