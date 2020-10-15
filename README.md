@@ -1,8 +1,8 @@
 # TIC TAC TOE (ou alors le MORPION en Français) 
-ru
+
 <img src="https://images-eu.ssl-images-amazon.com/images/I/21sQ-B9eNlL.png"
      alt="Tic Tac Toe"
-     style="float: left; margin: auto;" />
+     style="float: center; margin: auto;" />
 
 ## This a Ruby Implementation of the game TicTacToe (=Morpion in French)
 
@@ -24,3 +24,5 @@ ru
 ** Who will be the winner of this EPIC game?? **
 
 <p>Be prepare to meet my SUPER MORPION</p>
+
+<img src="https://ibb.co/m6StHBz" alt="screen view" style="float: center; margin: auto;"/>
