@@ -17,7 +17,7 @@ ru
 :red_circle:
 :yellow_circle:
 :green_circle:
-:blue_circle:
+:large_blue_circle:
 
 <p> 2 players, 1 grid to fill</p>
 
