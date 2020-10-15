@@ -1,8 +1,8 @@
 # TIC TAC TOE (ou alors le MORPION en Français) 
 
-<div style="text-align:center"><img src="https://images-eu.ssl-images-amazon.com/images/I/21sQ-B9eNlL.png"
+<p align="center"><img src="https://images-eu.ssl-images-amazon.com/images/I/21sQ-B9eNlL.png"
      alt="Tic Tac Toe"
-     style="float: center; margin: auto;" /></div>
+     style="float: center; margin: auto;" /></p>
 
 ## This a Ruby Implementation of the game TicTacToe (=Morpion in French)
 
@@ -25,4 +25,4 @@
 
 <p>Be prepare to meet my SUPER MORPION</p>
 
-<div style="text-align:center"><a href="https://ibb.co/m6StHBz"><img src="https://i.ibb.co/86X2jB8/Capture-d-e-cran-2020-10-16-a-00-11-19.png" alt="Capture-d-e-cran-2020-10-16-a-00-11-19"/></a></div>
+<p align="center"><a href="https://ibb.co/m6StHBz"><img src="https://i.ibb.co/86X2jB8/Capture-d-e-cran-2020-10-16-a-00-11-19.png" alt="Capture-d-e-cran-2020-10-16-a-00-11-19"/></a></p>
